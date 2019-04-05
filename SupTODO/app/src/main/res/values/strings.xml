@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SupTODO</string>
+    <string name="Share">Share</string>
+    <string name="Add">Add</string>
+    <string name="Ok">OK</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Delete">Delete</string>
+</resources>
